@@ -2,14 +2,12 @@ Ghost's Games is a website where you can play and download many of your favorite
 
 Contributors
 
-Ghost...
+Ghost
+
+Zerointensity
 
 Zolo
 
 Zentix
 
-NS2
-
-The Wall
-
-xXhaLfsIdexX
+TheWall
